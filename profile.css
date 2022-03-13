@@ -1,0 +1,27 @@
+body {
+  /* background-color: rosybrown; */
+  background-color: rgba(202, 154, 154, 0.7);
+  color: purple;
+  font-size: 23px;
+
+  /* background-image: url(coffee.jpg);
+  background-repeat: no-repeat;*/
+}
+/* form {
+  background-color: grey;
+} */
+
+.Heading {
+  /* color: rgb(255, 237, 133);  */
+  color: purple;
+  font-size: 35px;
+}
+
+/* img {
+  background-image: url(coffee.jpg);
+  width: 500px;
+  height: 500px;
+} */
+.frontpage {
+  color: rgb(0, 26, 255);
+}
